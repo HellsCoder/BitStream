@@ -2,8 +2,8 @@ import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 import java.util.Arrays;
 
-import io.hinet.bit.util.BitShow;
-import io.hinet.bit.util.BitUtils;
+import io.*.bit.util.BitShow;
+import io.*.bit.util.BitUtils;
 
 public class BitStream {
 
